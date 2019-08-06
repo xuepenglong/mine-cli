@@ -1,0 +1,36 @@
+{
+  "name": "mine-cli",
+  "version": "1.2.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/index.js"
+  },
+  "bin": {
+    "mine-cli": "./bin/index.js"
+  },
+  "bugs": {
+    "email": "1042803446@qq.com",
+    "url": "https://github.com/xuepenglong"
+  },
+  "contributors": [
+    {
+      "name": "xuepenglong",
+      "email": "1042803446@qq.com",
+      "url": "https://github.com/xuepenglong"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xuepenglong"
+  },
+  "keywords": [],
+  "author": {
+    "name": "xupenglong"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "inquirer": "^6.5.0"
+  }
+}
